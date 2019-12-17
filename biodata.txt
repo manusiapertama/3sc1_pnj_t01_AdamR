@@ -1,2 +1,3 @@
 No-Reg	: 1820010004
 Nama	: Adam R
+Jurusan	: TI PNJ
