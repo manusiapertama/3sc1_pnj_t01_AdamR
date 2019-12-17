@@ -1,4 +1,5 @@
 No-Reg	: 1820010004
 Nama	: Adam R
 Jurusan	: TI PNJ
-Angkatan: 2018 
+Angkatan: 2018
+Lulus	: 2020 
